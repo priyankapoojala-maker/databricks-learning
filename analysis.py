@@ -1,7 +1,4 @@
 # Databricks notebook source
-
-# COMMAND ----------
-
 # Analysis notebook created on GitHub!
 
 df = spark.createDataFrame(
